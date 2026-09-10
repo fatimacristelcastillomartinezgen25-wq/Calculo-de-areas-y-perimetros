@@ -1,1 +1,1 @@
-# Calculo-de-areas-y-per-metros
+# Calculo-de-areas-y-perimetros
